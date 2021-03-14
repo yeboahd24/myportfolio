@@ -1,3 +1,7 @@
-# My Blog
+# Simple E-commerse app
 
-Simple page about me.
+This is a simple ecommerse site..
+
+# Features
+payment
+
