@@ -3,6 +3,6 @@
 This is a simple ecommerse site..
 
 # Features
-Payment method.
-Order item.
+1. Payment method.
+2. Order item.
 
